@@ -1,0 +1,151 @@
+;Perfil;Sabor;Embalagem;Calorias;Procedencia;Respondente;Nota
+1;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 1;1
+2;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 1;4
+3;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 1;2
+4;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 1;7
+5;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 1;9
+6;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 1;3
+7;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 1;5
+8;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 1;10
+9;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 1;6
+10;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 1;8
+11;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 2;6
+12;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 2;7
+13;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 2;1
+14;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 2;5
+15;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 2;8
+16;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 2;2
+17;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 2;9
+18;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 2;10
+19;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 2;4
+20;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 2;3
+21;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 3;5
+22;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 3;4
+23;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 3;6
+24;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 3;3
+25;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 3;2
+26;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 3;8
+27;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 3;7
+28;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 3;9
+29;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 3;10
+30;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 3;1
+31;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 4;1
+32;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 4;2
+33;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 4;5
+34;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 4;4
+35;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 4;3
+36;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 4;10
+37;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 4;9
+38;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 4;7
+39;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 4;6
+40;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 4;8
+41;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 5;2
+42;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 5;6
+43;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 5;1
+44;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 5;7
+45;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 5;5
+46;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 5;4
+47;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 5;3
+48;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 5;10
+49;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 5;9
+50;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 5;8
+51;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 6;7
+52;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 6;4
+53;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 6;8
+54;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 6;1
+55;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 6;2
+56;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 6;3
+57;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 6;5
+58;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 6;9
+59;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 6;6
+60;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 6;10
+61;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 7;7
+62;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 7;4
+63;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 7;8
+64;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 7;10
+65;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 7;9
+66;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 7;3
+67;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 7;5
+68;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 7;2
+69;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 7;6
+70;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 7;1
+71;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 8;5
+72;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 8;6
+73;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 8;2
+74;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 8;8
+75;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 8;3
+76;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 8;1
+77;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 8;9
+78;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 8;7
+79;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 8;10
+80;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 8;4
+81;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 9;1
+82;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 9;6
+83;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 9;2
+84;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 9;5
+85;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 9;8
+86;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 9;9
+87;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 9;10
+88;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 9;4
+89;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 9;3
+90;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 9;7
+91;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 10;10
+92;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 10;8
+93;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 10;9
+94;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 10;6
+95;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 10;2
+96;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 10;3
+97;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 10;1
+98;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 10;4
+99;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 10;5
+100;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 10;7
+101;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 11;1
+102;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 11;2
+103;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 11;6
+104;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 11;5
+105;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 11;7
+106;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 11;10
+107;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 11;8
+108;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 11;4
+109;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 11;3
+110;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 11;9
+111;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 12;10
+112;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 12;8
+113;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 12;9
+114;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 12;6
+115;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 12;3
+116;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 12;1
+117;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 12;4
+118;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 12;2
+119;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 12;5
+120;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 12;7
+121;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 13;7
+122;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 13;9
+123;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 13;4
+124;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 13;5
+125;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 13;1
+126;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 13;3
+127;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 13;2
+128;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 13;8
+129;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 13;6
+130;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 13;10
+131;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 14;10
+132;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 14;1
+133;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 14;9
+134;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 14;6
+135;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 14;5
+136;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 14;4
+137;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 14;7
+138;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 14;3
+139;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 14;8
+140;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 14;2
+141;Perfil 1;Framboesa;Waffle caseiro;Convencional;Nao Organico;Individuo 15;5
+142;Perfil 2;Chocolate;Cone;Convencional;Organico;Individuo 15;7
+143;Perfil 3;Framboesa;Tamanho;Baixa caloria;Organico;Individuo 15;3
+144;Perfil 4;Morango;Tamanho;Convencional;Organico;Individuo 15;10
+145;Perfil 5;Morango;Cone;Baixa caloria;Nao Organico;Individuo 15;9
+146;Perfil 6;Chocolate;Waffle caseiro;Convencional;Nao Organico;Individuo 15;4
+147;Perfil 7;Baunilha;Tamanho;Baixa caloria;Nao Organico;Individuo 15;2
+148;Perfil 8;Manga;Waffle caseiro;Baixa caloria;Organico;Individuo 15;1
+149;Perfil 9;Manga;Tamanho;Convencional;Nao Organico;Individuo 15;6
+150;Perfil 10;Baunilha;Waffle caseiro;Convencional;Organico;Individuo 15;8
