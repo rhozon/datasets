@@ -1,0 +1,7 @@
+Id;Turma;Sexo;Idade;Altura;Peso;Filhos;Fuma;Toler;Exerc;Cine;OpCine;TV;OpTV
+1;A;F;17;1.6;60.5;2;NAO;P;0;1;B;16;R
+2;A;F;18;1.69;55;1;NAO;M;0;1;B;7;R
+3;A;M;18;1.85;72.8;2;NAO;P;5;2;M;15;R
+4;A;M;25;1.85;80.9;2;NAO;P;5;2;B;20;R
+5;A;F;19;1.58;55;1;NAO;M;2;2;B;5;R
+6;A;M;19;1.76;60;3;NAO;M;2;1;B;2;R
