@@ -1,1001 +1,1001 @@
-Group;grade;verification_status
-A;B;Verified
-A;B;Not Verified
-A;C;Not Verified
-A;B;Verified
-A;B;Source Verified
-A;C;Source Verified
-A;D;Not Verified
-A;C;Verified
-A;C;Not Verified
-A;E;Source Verified
-A;B;Source Verified
-A;C;Source Verified
-A;C;Source Verified
-A;D;Verified
-A;B;Source Verified
-A;B;Not Verified
-A;C;Verified
-A;C;Verified
-A;F;Verified
-A;B;Verified
-A;C;Source Verified
-A;B;Not Verified
-A;E;Source Verified
-A;B;Verified
-A;B;Source Verified
-A;C;Source Verified
-A;C;Source Verified
-A;C;Source Verified
-A;C;Source Verified
-A;C;Not Verified
-A;C;Verified
-A;B;Verified
-A;C;Not Verified
-A;B;Verified
-A;B;Not Verified
-A;A;Not Verified
-A;E;Verified
-A;B;Not Verified
-A;C;Not Verified
-A;B;Source Verified
-A;A;Source Verified
-A;C;Source Verified
-A;D;Source Verified
-A;B;Not Verified
-A;A;Source Verified
-A;B;Not Verified
-A;B;Source Verified
-A;A;Source Verified
-A;B;Source Verified
-A;B;Not Verified
-A;D;Source Verified
-A;B;Verified
-A;A;Verified
-A;C;Verified
-A;B;Source Verified
-A;B;Source Verified
-A;B;Verified
-A;E;Not Verified
-A;B;Source Verified
-A;B;Source Verified
-A;C;Verified
-A;B;Verified
-A;C;Not Verified
-A;C;Verified
-A;B;Source Verified
-A;A;Verified
-A;D;Source Verified
-A;D;Verified
-A;A;Source Verified
-A;E;Source Verified
-A;D;Verified
-A;D;Source Verified
-A;D;Not Verified
-A;D;Source Verified
-A;E;Not Verified
-A;B;Not Verified
-A;E;Verified
-A;B;Not Verified
-A;A;Not Verified
-A;B;Source Verified
-A;B;Source Verified
-A;E;Source Verified
-A;B;Verified
-A;E;Source Verified
-A;A;Verified
-A;C;Source Verified
-A;A;Not Verified
-A;A;Verified
-A;D;Source Verified
-A;B;Not Verified
-A;F;Verified
-A;A;Source Verified
-A;C;Not Verified
-A;E;Verified
-A;C;Source Verified
-A;B;Verified
-A;C;Source Verified
-A;C;Verified
-A;B;Not Verified
-A;A;Verified
-A;B;Source Verified
-A;C;Verified
-A;C;Source Verified
-A;C;Source Verified
-A;C;Source Verified
-A;E;Source Verified
-A;E;Verified
-A;C;Source Verified
-A;C;Verified
-A;C;Verified
-A;A;Source Verified
-A;C;Not Verified
-A;A;Verified
-A;D;Source Verified
-A;A;Not Verified
-A;D;Source Verified
-A;D;Verified
-A;B;Verified
-A;B;Source Verified
-A;A;Verified
-A;B;Source Verified
-A;C;Source Verified
-A;A;Source Verified
-A;D;Not Verified
-A;D;Source Verified
-A;B;Verified
-A;A;Not Verified
-A;C;Verified
-A;B;Verified
-A;C;Source Verified
-A;C;Source Verified
-A;B;Source Verified
-A;C;Source Verified
-A;C;Not Verified
-A;B;Source Verified
-A;A;Not Verified
-A;B;Verified
-A;D;Not Verified
-A;A;Source Verified
-A;D;Source Verified
-A;E;Source Verified
-A;A;Verified
-A;D;Source Verified
-A;C;Source Verified
-A;D;Not Verified
-A;C;Not Verified
-A;C;Source Verified
-A;E;Verified
-A;B;Source Verified
-A;C;Source Verified
-A;E;Source Verified
-A;A;Verified
-A;C;Verified
-A;B;Not Verified
-A;B;Source Verified
-A;E;Verified
-A;E;Source Verified
-A;C;Not Verified
-A;C;Verified
-A;C;Verified
-A;C;Not Verified
-A;A;Source Verified
-A;D;Not Verified
-A;C;Verified
-A;D;Verified
-A;A;Not Verified
-A;A;Verified
-A;A;Not Verified
-A;C;Not Verified
-A;D;Not Verified
-A;B;Source Verified
-A;A;Verified
-A;D;Verified
-A;B;Verified
-A;D;Source Verified
-A;C;Not Verified
-A;C;Verified
-A;C;Not Verified
-A;B;Not Verified
-A;C;Source Verified
-A;B;Not Verified
-A;C;Verified
-A;B;Verified
-A;D;Source Verified
-A;B;Source Verified
-A;D;Verified
-A;A;Source Verified
-A;B;Verified
-A;E;Verified
-A;C;Verified
-A;C;Source Verified
-A;A;Verified
-A;A;Not Verified
-A;D;Verified
-A;B;Not Verified
-A;B;Not Verified
-A;C;Not Verified
-A;B;Not Verified
-A;A;Not Verified
-A;C;Verified
-A;C;Verified
-A;C;Source Verified
-A;C;Not Verified
-A;C;Source Verified
-A;C;Source Verified
-A;A;Not Verified
-A;D;Not Verified
-A;D;Source Verified
-A;B;Verified
-A;A;Verified
-A;B;Source Verified
-A;B;Not Verified
-A;C;Not Verified
-A;C;Not Verified
-A;B;Not Verified
-A;D;Not Verified
-A;D;Source Verified
-A;E;Verified
-A;D;Source Verified
-A;A;Source Verified
-A;D;Not Verified
-A;B;Not Verified
-A;A;Not Verified
-A;A;Source Verified
-A;B;Source Verified
-A;B;Verified
-A;D;Source Verified
-A;B;Source Verified
-A;E;Verified
-A;D;Verified
-A;C;Source Verified
-A;B;Source Verified
-A;C;Verified
-A;D;Source Verified
-A;C;Not Verified
-A;C;Verified
-A;B;Verified
-A;B;Verified
-A;D;Verified
-A;D;Source Verified
-A;C;Source Verified
-A;B;Not Verified
-A;C;Source Verified
-A;C;Not Verified
-A;B;Not Verified
-A;B;Verified
-A;B;Source Verified
-A;B;Verified
-A;E;Verified
-A;C;Not Verified
-A;E;Verified
-A;C;Not Verified
-A;B;Source Verified
-A;B;Verified
-A;C;Verified
-A;A;Source Verified
-A;E;Source Verified
-A;B;Source Verified
-A;B;Not Verified
-A;B;Source Verified
-A;A;Source Verified
-A;C;Source Verified
-A;A;Verified
-A;C;Source Verified
-A;B;Verified
-A;F;Source Verified
-A;A;Not Verified
-A;D;Source Verified
-A;C;Verified
-A;C;Not Verified
-A;B;Not Verified
-A;A;Source Verified
-A;B;Not Verified
-A;B;Source Verified
-A;B;Source Verified
-A;C;Not Verified
-A;C;Verified
-A;D;Not Verified
-A;D;Verified
-A;C;Verified
-A;C;Source Verified
-A;B;Source Verified
-A;C;Verified
-A;D;Not Verified
-A;C;Not Verified
-A;C;Source Verified
-A;B;Source Verified
-A;C;Source Verified
-A;B;Verified
-A;B;Source Verified
-A;D;Source Verified
-A;C;Source Verified
-A;C;Verified
-A;C;Not Verified
-A;C;Source Verified
-A;B;Source Verified
-A;E;Verified
-A;C;Verified
-A;B;Verified
-A;A;Source Verified
-A;C;Not Verified
-A;C;Verified
-A;A;Source Verified
-A;B;Not Verified
-A;B;Not Verified
-A;C;Verified
-A;D;Verified
-A;D;Verified
-A;D;Verified
-A;E;Verified
-A;D;Verified
-A;B;Not Verified
-A;C;Not Verified
-A;C;Source Verified
-A;B;Not Verified
-A;C;Not Verified
-A;B;Source Verified
-A;A;Verified
-A;C;Source Verified
-A;C;Source Verified
-A;C;Verified
-A;B;Source Verified
-A;C;Not Verified
-A;B;Source Verified
-A;C;Source Verified
-A;C;Verified
-A;C;Source Verified
-A;C;Verified
-A;C;Source Verified
-A;C;Source Verified
-A;A;Source Verified
-A;B;Not Verified
-A;B;Source Verified
-A;C;Not Verified
-A;C;Verified
-A;C;Not Verified
-A;B;Not Verified
-A;C;Not Verified
-A;A;Not Verified
-A;D;Source Verified
-A;C;Not Verified
-A;D;Verified
-A;B;Source Verified
-A;A;Source Verified
-A;B;Not Verified
-A;D;Verified
-A;C;Verified
-A;A;Not Verified
-A;F;Verified
-A;B;Source Verified
-A;C;Verified
-A;B;Not Verified
-A;B;Not Verified
-A;D;Not Verified
-A;C;Verified
-A;A;Source Verified
-A;C;Not Verified
-A;E;Verified
-A;B;Source Verified
-A;B;Verified
-A;A;Verified
-A;B;Source Verified
-A;B;Source Verified
-A;A;Not Verified
-A;C;Source Verified
-A;D;Source Verified
-A;B;Not Verified
-A;D;Not Verified
-A;C;Not Verified
-A;A;Not Verified
-A;C;Not Verified
-A;A;Source Verified
-A;B;Source Verified
-A;C;Verified
-A;C;Source Verified
-A;F;Verified
-A;A;Not Verified
-A;C;Not Verified
-A;C;Source Verified
-A;G;Verified
-A;C;Not Verified
-A;C;Source Verified
-A;D;Verified
-A;A;Not Verified
-A;E;Verified
-A;C;Verified
-A;C;Not Verified
-A;B;Not Verified
-A;A;Source Verified
-A;B;Verified
-A;D;Verified
-A;D;Source Verified
-A;B;Source Verified
-A;C;Verified
-A;D;Source Verified
-A;C;Not Verified
-A;D;Verified
-A;C;Not Verified
-A;C;Verified
-A;B;Verified
-A;B;Not Verified
-A;C;Verified
-A;B;Verified
-A;D;Source Verified
-A;B;Verified
-A;F;Verified
-A;B;Source Verified
-A;A;Not Verified
-A;D;Not Verified
-A;A;Verified
-A;B;Verified
-A;A;Not Verified
-A;C;Verified
-A;E;Source Verified
-A;A;Verified
-A;D;Verified
-A;D;Verified
-A;B;Not Verified
-A;E;Not Verified
-A;E;Source Verified
-A;E;Source Verified
-A;A;Not Verified
-A;A;Verified
-A;C;Source Verified
-A;B;Not Verified
-A;B;Not Verified
-A;C;Verified
-A;A;Verified
-A;D;Verified
-A;B;Source Verified
-A;A;Verified
-A;E;Not Verified
-A;B;Source Verified
-A;C;Verified
-A;A;Verified
-A;D;Source Verified
-A;F;Source Verified
-A;D;Source Verified
-A;D;Source Verified
-A;E;Source Verified
-A;B;Not Verified
-A;A;Not Verified
-A;B;Source Verified
-A;C;Source Verified
-A;A;Not Verified
-A;B;Verified
-A;C;Source Verified
-A;A;Verified
-A;C;Not Verified
-A;B;Not Verified
-A;C;Verified
-A;B;Verified
-A;A;Not Verified
-A;C;Not Verified
-A;B;Verified
-A;B;Not Verified
-A;A;Source Verified
-A;C;Source Verified
-A;C;Source Verified
-A;G;Verified
-A;B;Source Verified
-A;C;Source Verified
-A;C;Not Verified
-A;D;Verified
-A;A;Source Verified
-A;A;Verified
-A;B;Not Verified
-A;B;Not Verified
-A;E;Not Verified
-A;B;Not Verified
-A;B;Source Verified
-A;B;Verified
-A;A;Source Verified
-A;B;Source Verified
-A;C;Source Verified
-A;A;Not Verified
-A;E;Verified
-A;A;Source Verified
-A;B;Verified
-A;B;Verified
-A;C;Source Verified
-A;C;Source Verified
-A;C;Verified
-A;A;Not Verified
-A;B;Source Verified
-A;C;Source Verified
-A;C;Source Verified
-A;A;Not Verified
-A;B;Source Verified
-A;D;Not Verified
-A;C;Source Verified
-A;B;Verified
-A;D;Not Verified
-A;A;Source Verified
-A;C;Source Verified
-A;B;Source Verified
-A;C;Verified
-A;B;Verified
-A;B;Not Verified
-A;D;Source Verified
-B;C;Source Verified
-B;D;Source Verified
-B;E;Source Verified
-B;B;Not Verified
-B;D;Verified
-B;A;Not Verified
-B;F;Verified
-B;C;Not Verified
-B;A;Not Verified
-B;C;Source Verified
-B;D;Source Verified
-B;F;Verified
-B;C;Verified
-B;B;Not Verified
-B;C;Not Verified
-B;B;Not Verified
-B;B;Source Verified
-B;A;Not Verified
-B;D;Verified
-B;B;Not Verified
-B;B;Not Verified
-B;C;Not Verified
-B;C;Verified
-B;D;Verified
-B;B;Verified
-B;D;Verified
-B;D;Not Verified
-B;A;Verified
-B;B;Not Verified
-B;D;Source Verified
-B;E;Verified
-B;C;Not Verified
-B;C;Not Verified
-B;C;Verified
-B;C;Verified
-B;C;Source Verified
-B;D;Source Verified
-B;D;Verified
-B;A;Not Verified
-B;B;Not Verified
-B;C;Not Verified
-B;C;Not Verified
-B;C;Verified
-B;C;Verified
-B;B;Not Verified
-B;C;Source Verified
-B;B;Not Verified
-B;B;Not Verified
-B;B;Verified
-B;D;Verified
-B;B;Verified
-B;B;Source Verified
-B;B;Not Verified
-B;D;Verified
-B;E;Verified
-B;A;Not Verified
-B;E;Source Verified
-B;B;Verified
-B;D;Source Verified
-B;B;Not Verified
-B;B;Source Verified
-B;C;Source Verified
-B;C;Not Verified
-B;B;Not Verified
-B;C;Verified
-B;C;Verified
-B;C;Not Verified
-B;D;Verified
-B;C;Verified
-B;D;Not Verified
-B;E;Verified
-B;C;Verified
-B;A;Verified
-B;A;Source Verified
-B;A;Source Verified
-B;C;Source Verified
-B;C;Source Verified
-B;F;Source Verified
-B;B;Verified
-B;A;Not Verified
-B;B;Verified
-B;C;Not Verified
-B;D;Verified
-B;A;Not Verified
-B;D;Source Verified
-B;A;Not Verified
-B;A;Source Verified
-B;G;Verified
-B;A;Verified
-B;E;Verified
-B;B;Source Verified
-B;C;Not Verified
-B;C;Source Verified
-B;B;Source Verified
-B;F;Verified
-B;B;Verified
-B;C;Source Verified
-B;C;Source Verified
-B;G;Source Verified
-B;C;Verified
-B;D;Verified
-B;C;Not Verified
-B;C;Source Verified
-B;C;Verified
-B;A;Source Verified
-B;C;Not Verified
-B;C;Not Verified
-B;A;Verified
-B;A;Not Verified
-B;B;Verified
-B;D;Not Verified
-B;B;Source Verified
-B;B;Source Verified
-B;A;Source Verified
-B;B;Not Verified
-B;B;Source Verified
-B;A;Source Verified
-B;A;Not Verified
-B;B;Source Verified
-B;C;Not Verified
-B;A;Source Verified
-B;A;Source Verified
-B;B;Verified
-B;B;Not Verified
-B;C;Source Verified
-B;C;Not Verified
-B;A;Source Verified
-B;B;Verified
-B;A;Source Verified
-B;E;Verified
-B;C;Source Verified
-B;A;Source Verified
-B;B;Not Verified
-B;D;Source Verified
-B;D;Not Verified
-B;A;Source Verified
-B;C;Verified
-B;D;Not Verified
-B;A;Source Verified
-B;C;Source Verified
-B;A;Verified
-B;C;Source Verified
-B;C;Verified
-B;B;Verified
-B;G;Verified
-B;B;Source Verified
-B;C;Verified
-B;B;Source Verified
-B;B;Verified
-B;A;Source Verified
-B;C;Not Verified
-B;C;Verified
-B;C;Source Verified
-B;D;Not Verified
-B;E;Verified
-B;C;Verified
-B;A;Not Verified
-B;C;Verified
-B;B;Source Verified
-B;B;Source Verified
-B;A;Source Verified
-B;F;Source Verified
-B;D;Not Verified
-B;B;Not Verified
-B;B;Verified
-B;C;Source Verified
-B;A;Not Verified
-B;C;Verified
-B;C;Source Verified
-B;B;Verified
-B;D;Not Verified
-B;C;Not Verified
-B;C;Source Verified
-B;C;Verified
-B;C;Not Verified
-B;D;Verified
-B;C;Not Verified
-B;D;Not Verified
-B;A;Verified
-B;D;Source Verified
-B;C;Verified
-B;A;Source Verified
-B;D;Verified
-B;C;Not Verified
-B;D;Source Verified
-B;C;Source Verified
-B;D;Source Verified
-B;B;Not Verified
-B;C;Verified
-B;B;Not Verified
-B;B;Verified
-B;B;Verified
-B;C;Not Verified
-B;C;Not Verified
-B;D;Not Verified
-B;B;Verified
-B;A;Source Verified
-B;C;Source Verified
-B;D;Source Verified
-B;D;Source Verified
-B;B;Not Verified
-B;B;Not Verified
-B;B;Source Verified
-B;C;Verified
-B;B;Not Verified
-B;A;Not Verified
-B;C;Verified
-B;C;Source Verified
-B;C;Verified
-B;A;Source Verified
-B;B;Not Verified
-B;C;Source Verified
-B;D;Verified
-B;C;Verified
-B;B;Not Verified
-B;D;Source Verified
-B;C;Verified
-B;D;Source Verified
-B;B;Verified
-B;C;Verified
-B;B;Not Verified
-B;C;Verified
-B;C;Source Verified
-B;B;Source Verified
-B;B;Verified
-B;C;Source Verified
-B;C;Verified
-B;D;Source Verified
-B;E;Source Verified
-B;B;Verified
-B;A;Verified
-B;A;Not Verified
-B;D;Not Verified
-B;B;Source Verified
-B;C;Verified
-B;D;Source Verified
-B;B;Source Verified
-B;C;Source Verified
-B;B;Not Verified
-B;A;Not Verified
-B;D;Not Verified
-B;A;Verified
-B;G;Verified
-B;E;Source Verified
-B;B;Verified
-B;C;Source Verified
-B;C;Not Verified
-B;B;Source Verified
-B;C;Not Verified
-B;C;Verified
-B;B;Source Verified
-B;A;Not Verified
-B;B;Not Verified
-B;D;Source Verified
-B;B;Not Verified
-B;C;Verified
-B;F;Not Verified
-B;C;Verified
-B;E;Source Verified
-B;B;Source Verified
-B;D;Verified
-B;C;Source Verified
-B;A;Not Verified
-B;E;Verified
-B;A;Source Verified
-B;C;Source Verified
-B;B;Not Verified
-B;D;Verified
-B;E;Verified
-B;A;Not Verified
-B;D;Verified
-B;A;Not Verified
-B;B;Source Verified
-B;C;Not Verified
-B;B;Not Verified
-B;D;Verified
-B;C;Not Verified
-B;A;Verified
-B;D;Not Verified
-B;B;Verified
-B;C;Not Verified
-B;B;Verified
-B;C;Source Verified
-B;C;Verified
-B;B;Not Verified
-B;F;Not Verified
-B;A;Verified
-B;C;Verified
-B;D;Source Verified
-B;C;Verified
-B;C;Not Verified
-B;C;Verified
-B;B;Not Verified
-B;C;Verified
-B;D;Verified
-B;A;Not Verified
-B;E;Source Verified
-B;B;Not Verified
-B;A;Not Verified
-B;C;Not Verified
-B;A;Verified
-B;C;Verified
-B;D;Verified
-B;C;Verified
-B;D;Source Verified
-B;A;Not Verified
-B;B;Source Verified
-B;D;Source Verified
-B;B;Source Verified
-B;C;Source Verified
-B;C;Source Verified
-B;A;Source Verified
-B;B;Verified
-B;D;Verified
-B;C;Source Verified
-B;B;Source Verified
-B;D;Source Verified
-B;D;Source Verified
-B;C;Source Verified
-B;B;Verified
-B;C;Source Verified
-B;B;Source Verified
-B;B;Not Verified
-B;B;Not Verified
-B;C;Source Verified
-B;D;Source Verified
-B;B;Not Verified
-B;C;Verified
-B;C;Source Verified
-B;D;Verified
-B;B;Verified
-B;C;Not Verified
-B;B;Source Verified
-B;B;Not Verified
-B;B;Not Verified
-B;A;Source Verified
-B;A;Source Verified
-B;C;Source Verified
-B;A;Not Verified
-B;C;Source Verified
-B;C;Not Verified
-B;A;Source Verified
-B;A;Source Verified
-B;C;Not Verified
-B;E;Source Verified
-B;C;Source Verified
-B;E;Source Verified
-B;E;Verified
-B;B;Not Verified
-B;C;Not Verified
-B;B;Source Verified
-B;B;Source Verified
-B;B;Source Verified
-B;D;Source Verified
-B;B;Source Verified
-B;C;Not Verified
-B;F;Verified
-B;F;Verified
-B;D;Source Verified
-B;D;Verified
-B;E;Not Verified
-B;A;Source Verified
-B;B;Verified
-B;C;Source Verified
-B;C;Verified
-B;D;Verified
-B;D;Not Verified
-B;C;Verified
-B;D;Verified
-B;B;Source Verified
-B;B;Not Verified
-B;C;Verified
-B;C;Source Verified
-B;C;Source Verified
-B;D;Verified
-B;B;Not Verified
-B;D;Not Verified
-B;C;Not Verified
-B;B;Source Verified
-B;C;Source Verified
-B;B;Not Verified
-B;D;Not Verified
-B;C;Verified
-B;B;Not Verified
-B;C;Not Verified
-B;B;Source Verified
-B;E;Source Verified
-B;E;Verified
-B;D;Verified
-B;B;Source Verified
-B;B;Not Verified
-B;E;Source Verified
-B;B;Source Verified
-B;C;Not Verified
-B;D;Verified
-B;C;Not Verified
-B;C;Source Verified
-B;B;Verified
-B;F;Verified
-B;B;Not Verified
-B;B;Source Verified
-B;B;Source Verified
-B;E;Source Verified
-B;C;Not Verified
-B;C;Verified
-B;D;Verified
-B;E;Source Verified
-B;D;Source Verified
-B;E;Source Verified
-B;D;Source Verified
-B;D;Verified
-B;D;Source Verified
-B;B;Verified
-B;D;Source Verified
-B;E;Verified
-B;C;Source Verified
-B;D;Source Verified
-B;D;Verified
-B;D;Source Verified
-B;C;Not Verified
-B;C;Source Verified
-B;D;Source Verified
-B;B;Verified
-B;B;Verified
-B;A;Not Verified
-B;A;Source Verified
-B;D;Verified
-B;D;Source Verified
-B;B;Source Verified
-B;D;Source Verified
-B;D;Verified
-B;A;Not Verified
-B;C;Source Verified
-B;D;Verified
-B;B;Verified
-B;B;Not Verified
-B;D;Source Verified
-B;E;Verified
-B;B;Verified
-B;B;Source Verified
-B;A;Not Verified
-B;C;Verified
-B;D;Source Verified
-B;B;Source Verified
-B;A;Source Verified
-B;D;Verified
-B;D;Not Verified
-B;B;Not Verified
-B;A;Source Verified
-B;C;Not Verified
-B;C;Verified
-B;C;Verified
-B;B;Not Verified
-B;D;Verified
-B;E;Source Verified
-B;A;Not Verified
-B;B;Verified
-B;B;Source Verified
-B;D;Not Verified
-B;C;Source Verified
-B;B;Not Verified
-B;C;Not Verified
-B;C;Verified
-B;B;Not Verified
-B;C;Verified
-B;A;Verified
-B;E;Source Verified
-B;C;Source Verified
-B;C;Source Verified
-B;D;Source Verified
-B;A;Verified
-B;B;Source Verified
-B;D;Source Verified
-B;F;Source Verified
-B;A;Verified
-B;B;Source Verified
-B;C;Source Verified
-B;C;Not Verified
-B;B;Source Verified
-B;E;Source Verified
-B;A;Verified
-B;B;Not Verified
-B;C;Not Verified
-B;E;Source Verified
-B;B;Source Verified
-B;D;Verified
-B;D;Not Verified
-B;F;Source Verified
-B;C;Verified
-B;B;Verified
-B;D;Source Verified
-B;B;Verified
-B;D;Verified
-B;A;Source Verified
-B;F;Source Verified
-B;E;Source Verified
-B;B;Source Verified
-B;B;Source Verified
-B;A;Not Verified
-B;A;Not Verified
+loan_amnt;Group;grade;verification_status
+8000;A;B;Verified
+1200;A;B;Not Verified
+15000;A;C;Not Verified
+9000;A;B;Verified
+16000;A;B;Source Verified
+15600;A;C;Source Verified
+2400;A;D;Not Verified
+23600;A;C;Verified
+3600;A;C;Not Verified
+20750;A;E;Source Verified
+11000;A;B;Source Verified
+7200;A;C;Source Verified
+7000;A;C;Source Verified
+21000;A;D;Verified
+5000;A;B;Source Verified
+8000;A;B;Not Verified
+35000;A;C;Verified
+7500;A;C;Verified
+32000;A;F;Verified
+15000;A;B;Verified
+14000;A;C;Source Verified
+6500;A;B;Not Verified
+12875;A;E;Source Verified
+15000;A;B;Verified
+6000;A;B;Source Verified
+11000;A;C;Source Verified
+5000;A;C;Source Verified
+24000;A;C;Source Verified
+18000;A;C;Source Verified
+12000;A;C;Not Verified
+12000;A;C;Verified
+9600;A;B;Verified
+10000;A;C;Not Verified
+15000;A;B;Verified
+6000;A;B;Not Verified
+10975;A;A;Not Verified
+16900;A;E;Verified
+5000;A;B;Not Verified
+14000;A;C;Not Verified
+6500;A;B;Source Verified
+7000;A;A;Source Verified
+9250;A;C;Source Verified
+7200;A;D;Source Verified
+18550;A;B;Not Verified
+13000;A;A;Source Verified
+7600;A;B;Not Verified
+10975;A;B;Source Verified
+6500;A;A;Source Verified
+6000;A;B;Source Verified
+8400;A;B;Not Verified
+25000;A;D;Source Verified
+35000;A;B;Verified
+3000;A;A;Verified
+15000;A;C;Verified
+24000;A;B;Source Verified
+11000;A;B;Source Verified
+20000;A;B;Verified
+8875;A;E;Not Verified
+12000;A;B;Source Verified
+8000;A;B;Source Verified
+1600;A;C;Verified
+17000;A;B;Verified
+10975;A;C;Not Verified
+10300;A;C;Verified
+8875;A;B;Source Verified
+8800;A;A;Verified
+12000;A;D;Source Verified
+10850;A;D;Verified
+7000;A;A;Source Verified
+13575;A;E;Source Verified
+26375;A;D;Verified
+21000;A;D;Source Verified
+3200;A;D;Not Verified
+10000;A;D;Source Verified
+13000;A;E;Not Verified
+3600;A;B;Not Verified
+12000;A;E;Verified
+6100;A;B;Not Verified
+10000;A;A;Not Verified
+12000;A;B;Source Verified
+28000;A;B;Source Verified
+11500;A;E;Source Verified
+8500;A;B;Verified
+22000;A;E;Source Verified
+20000;A;A;Verified
+6175;A;C;Source Verified
+10000;A;A;Not Verified
+8000;A;A;Verified
+33500;A;D;Source Verified
+9500;A;B;Not Verified
+20000;A;F;Verified
+28000;A;A;Source Verified
+5000;A;C;Not Verified
+15000;A;E;Verified
+15600;A;C;Source Verified
+21100;A;B;Verified
+16000;A;C;Source Verified
+9000;A;C;Verified
+10000;A;B;Not Verified
+30000;A;A;Verified
+23000;A;B;Source Verified
+21000;A;C;Verified
+7100;A;C;Source Verified
+10000;A;C;Source Verified
+7850;A;C;Source Verified
+17600;A;E;Source Verified
+24000;A;E;Verified
+6000;A;C;Source Verified
+16000;A;C;Verified
+35000;A;C;Verified
+9600;A;A;Source Verified
+4000;A;C;Not Verified
+12000;A;A;Verified
+20625;A;D;Source Verified
+12600;A;A;Not Verified
+12075;A;D;Source Verified
+10800;A;D;Verified
+25000;A;B;Verified
+12000;A;B;Source Verified
+25000;A;A;Verified
+23375;A;B;Source Verified
+10000;A;C;Source Verified
+18250;A;A;Source Verified
+7000;A;D;Not Verified
+4150;A;D;Source Verified
+12000;A;B;Verified
+5000;A;A;Not Verified
+20000;A;C;Verified
+11200;A;B;Verified
+14700;A;C;Source Verified
+12000;A;C;Source Verified
+12000;A;B;Source Verified
+11450;A;C;Source Verified
+13625;A;C;Not Verified
+23000;A;B;Source Verified
+4250;A;A;Not Verified
+22750;A;B;Verified
+12600;A;D;Not Verified
+28000;A;A;Source Verified
+20775;A;D;Source Verified
+15000;A;E;Source Verified
+6000;A;A;Verified
+20000;A;D;Source Verified
+35000;A;C;Source Verified
+8000;A;D;Not Verified
+4800;A;C;Not Verified
+7000;A;C;Source Verified
+8875;A;E;Verified
+6000;A;B;Source Verified
+10000;A;C;Source Verified
+14700;A;E;Source Verified
+24000;A;A;Verified
+24000;A;C;Verified
+14000;A;B;Not Verified
+16150;A;B;Source Verified
+27200;A;E;Verified
+17500;A;E;Source Verified
+15000;A;C;Not Verified
+23325;A;C;Verified
+30000;A;C;Verified
+16000;A;C;Not Verified
+3000;A;A;Source Verified
+9000;A;D;Not Verified
+7225;A;C;Verified
+35000;A;D;Verified
+15600;A;A;Not Verified
+20000;A;A;Verified
+8000;A;A;Not Verified
+10000;A;C;Not Verified
+5000;A;D;Not Verified
+16000;A;B;Source Verified
+5200;A;A;Verified
+21000;A;D;Verified
+25000;A;B;Verified
+18000;A;D;Source Verified
+3550;A;C;Not Verified
+5600;A;C;Verified
+10000;A;C;Not Verified
+12000;A;B;Not Verified
+12000;A;C;Source Verified
+15000;A;B;Not Verified
+7200;A;C;Verified
+35000;A;B;Verified
+10000;A;D;Source Verified
+25000;A;B;Source Verified
+9850;A;D;Verified
+7400;A;A;Source Verified
+17475;A;B;Verified
+2500;A;E;Verified
+30000;A;C;Verified
+8000;A;C;Source Verified
+20000;A;A;Verified
+7000;A;A;Not Verified
+23500;A;D;Verified
+19500;A;B;Not Verified
+13000;A;B;Not Verified
+18750;A;C;Not Verified
+8000;A;B;Not Verified
+10000;A;A;Not Verified
+30000;A;C;Verified
+8000;A;C;Verified
+21000;A;C;Source Verified
+12000;A;C;Not Verified
+31000;A;C;Source Verified
+21075;A;C;Source Verified
+11000;A;A;Not Verified
+15000;A;D;Not Verified
+3000;A;D;Source Verified
+22200;A;B;Verified
+16000;A;A;Verified
+10000;A;B;Source Verified
+19200;A;B;Not Verified
+7200;A;C;Not Verified
+21000;A;C;Not Verified
+20000;A;B;Not Verified
+6975;A;D;Not Verified
+24000;A;D;Source Verified
+15250;A;E;Verified
+31000;A;D;Source Verified
+5000;A;A;Source Verified
+6000;A;D;Not Verified
+11950;A;B;Not Verified
+9600;A;A;Not Verified
+9000;A;A;Source Verified
+20000;A;B;Source Verified
+20000;A;B;Verified
+18250;A;D;Source Verified
+27000;A;B;Source Verified
+32000;A;E;Verified
+4500;A;D;Verified
+4000;A;C;Source Verified
+9000;A;B;Source Verified
+10000;A;C;Verified
+20000;A;D;Source Verified
+12000;A;C;Not Verified
+13500;A;C;Verified
+24000;A;B;Verified
+8000;A;B;Verified
+16000;A;D;Verified
+9950;A;D;Source Verified
+17075;A;C;Source Verified
+24000;A;B;Not Verified
+8400;A;C;Source Verified
+2000;A;C;Not Verified
+16675;A;B;Not Verified
+28200;A;B;Verified
+11500;A;B;Source Verified
+6500;A;B;Verified
+4950;A;E;Verified
+16000;A;C;Not Verified
+22000;A;E;Verified
+4000;A;C;Not Verified
+17000;A;B;Source Verified
+12000;A;B;Verified
+12250;A;C;Verified
+20000;A;A;Source Verified
+18900;A;E;Source Verified
+5000;A;B;Source Verified
+14950;A;B;Not Verified
+18975;A;B;Source Verified
+9000;A;A;Source Verified
+12000;A;C;Source Verified
+17600;A;A;Verified
+35000;A;C;Source Verified
+15000;A;B;Verified
+25000;A;F;Source Verified
+15600;A;A;Not Verified
+35000;A;D;Source Verified
+35000;A;C;Verified
+7950;A;C;Not Verified
+1000;A;B;Not Verified
+24000;A;A;Source Verified
+15000;A;B;Not Verified
+17000;A;B;Source Verified
+20000;A;B;Source Verified
+15000;A;C;Not Verified
+24250;A;C;Verified
+12000;A;D;Not Verified
+24000;A;D;Verified
+20000;A;C;Verified
+8000;A;C;Source Verified
+24000;A;B;Source Verified
+14500;A;C;Verified
+21300;A;D;Not Verified
+19200;A;C;Not Verified
+15000;A;C;Source Verified
+9600;A;B;Source Verified
+3200;A;C;Source Verified
+14100;A;B;Verified
+20000;A;B;Source Verified
+18000;A;D;Source Verified
+19200;A;C;Source Verified
+35000;A;C;Verified
+14000;A;C;Not Verified
+16000;A;C;Source Verified
+23000;A;B;Source Verified
+12000;A;E;Verified
+25000;A;C;Verified
+10000;A;B;Verified
+9000;A;A;Source Verified
+4800;A;C;Not Verified
+35000;A;C;Verified
+15050;A;A;Source Verified
+8000;A;B;Not Verified
+6000;A;B;Not Verified
+14875;A;C;Verified
+30000;A;D;Verified
+23075;A;D;Verified
+19500;A;D;Verified
+13700;A;E;Verified
+3500;A;D;Verified
+8800;A;B;Not Verified
+8375;A;C;Not Verified
+25000;A;C;Source Verified
+5000;A;B;Not Verified
+21000;A;C;Not Verified
+5000;A;B;Source Verified
+22000;A;A;Verified
+33425;A;C;Source Verified
+12000;A;C;Source Verified
+35000;A;C;Verified
+5000;A;B;Source Verified
+4350;A;C;Not Verified
+7700;A;B;Source Verified
+6000;A;C;Source Verified
+4000;A;C;Verified
+15000;A;C;Source Verified
+8000;A;C;Verified
+6000;A;C;Source Verified
+5000;A;C;Source Verified
+30000;A;A;Source Verified
+6000;A;B;Not Verified
+24500;A;B;Source Verified
+9000;A;C;Not Verified
+23000;A;C;Verified
+15000;A;C;Not Verified
+2500;A;B;Not Verified
+1000;A;C;Not Verified
+7000;A;A;Not Verified
+15000;A;D;Source Verified
+16000;A;C;Not Verified
+22950;A;D;Verified
+23000;A;B;Source Verified
+13600;A;A;Source Verified
+21000;A;B;Not Verified
+35000;A;D;Verified
+5000;A;C;Verified
+8300;A;A;Not Verified
+12000;A;F;Verified
+28000;A;B;Source Verified
+22000;A;C;Verified
+10000;A;B;Not Verified
+14100;A;B;Not Verified
+5550;A;D;Not Verified
+24825;A;C;Verified
+8500;A;A;Source Verified
+14000;A;C;Not Verified
+10800;A;E;Verified
+14100;A;B;Source Verified
+12000;A;B;Verified
+14000;A;A;Verified
+22500;A;B;Source Verified
+6500;A;B;Source Verified
+12000;A;A;Not Verified
+21600;A;C;Source Verified
+30000;A;D;Source Verified
+15000;A;B;Not Verified
+10000;A;D;Not Verified
+15500;A;C;Not Verified
+2700;A;A;Not Verified
+10000;A;C;Not Verified
+5000;A;A;Source Verified
+21000;A;B;Source Verified
+13200;A;C;Verified
+6000;A;C;Source Verified
+35000;A;F;Verified
+10000;A;A;Not Verified
+12000;A;C;Not Verified
+30000;A;C;Source Verified
+26500;A;G;Verified
+2500;A;C;Not Verified
+10000;A;C;Source Verified
+21125;A;D;Verified
+15000;A;A;Not Verified
+35000;A;E;Verified
+28000;A;C;Verified
+18000;A;C;Not Verified
+18000;A;B;Not Verified
+13000;A;A;Source Verified
+16000;A;B;Verified
+3500;A;D;Verified
+18000;A;D;Source Verified
+9600;A;B;Source Verified
+30000;A;C;Verified
+10125;A;D;Source Verified
+9850;A;C;Not Verified
+6550;A;D;Verified
+12000;A;C;Not Verified
+22300;A;C;Verified
+7000;A;B;Verified
+16800;A;B;Not Verified
+12000;A;C;Verified
+6000;A;B;Verified
+13250;A;D;Source Verified
+35000;A;B;Verified
+20000;A;F;Verified
+8000;A;B;Source Verified
+10000;A;A;Not Verified
+20000;A;D;Not Verified
+25000;A;A;Verified
+11000;A;B;Verified
+18000;A;A;Not Verified
+10000;A;C;Verified
+20400;A;E;Source Verified
+5500;A;A;Verified
+3000;A;D;Verified
+6900;A;D;Verified
+18000;A;B;Not Verified
+12500;A;E;Not Verified
+4300;A;E;Source Verified
+35000;A;E;Source Verified
+10000;A;A;Not Verified
+35000;A;A;Verified
+15650;A;C;Source Verified
+12000;A;B;Not Verified
+5000;A;B;Not Verified
+30000;A;C;Verified
+20000;A;A;Verified
+29975;A;D;Verified
+12000;A;B;Source Verified
+24000;A;A;Verified
+12175;A;E;Not Verified
+10000;A;B;Source Verified
+8000;A;C;Verified
+26100;A;A;Verified
+24000;A;D;Source Verified
+20000;A;F;Source Verified
+17000;A;D;Source Verified
+7775;A;D;Source Verified
+26400;A;E;Source Verified
+2000;A;B;Not Verified
+7800;A;A;Not Verified
+22500;A;B;Source Verified
+32000;A;C;Source Verified
+4000;A;A;Not Verified
+5950;A;B;Verified
+9600;A;C;Source Verified
+27650;A;A;Verified
+10500;A;C;Not Verified
+10500;A;B;Not Verified
+35000;A;C;Verified
+5000;A;B;Verified
+15000;A;A;Not Verified
+12000;A;C;Not Verified
+3500;A;B;Verified
+6000;A;B;Not Verified
+25000;A;A;Source Verified
+7600;A;C;Source Verified
+25000;A;C;Source Verified
+15100;A;G;Verified
+15000;A;B;Source Verified
+6000;A;C;Source Verified
+10000;A;C;Not Verified
+35000;A;D;Verified
+14400;A;A;Source Verified
+16000;A;A;Verified
+3200;A;B;Not Verified
+15000;A;B;Not Verified
+10000;A;E;Not Verified
+11550;A;B;Not Verified
+18000;A;B;Source Verified
+16000;A;B;Verified
+5500;A;A;Source Verified
+5000;A;B;Source Verified
+12000;A;C;Source Verified
+16000;A;A;Not Verified
+24650;A;E;Verified
+20000;A;A;Source Verified
+6000;A;B;Verified
+26075;A;B;Verified
+2500;A;C;Source Verified
+5000;A;C;Source Verified
+20625;A;C;Verified
+27000;A;A;Not Verified
+14525;A;B;Source Verified
+24000;A;C;Source Verified
+12000;A;C;Source Verified
+7450;A;A;Not Verified
+3000;A;B;Source Verified
+9000;A;D;Not Verified
+35000;A;C;Source Verified
+5375;A;B;Verified
+9000;A;D;Not Verified
+9000;A;A;Source Verified
+7000;A;C;Source Verified
+27200;A;B;Source Verified
+16000;A;C;Verified
+5000;A;B;Verified
+5000;A;B;Not Verified
+18700;A;D;Source Verified
+17000;B;C;Source Verified
+16800;B;D;Source Verified
+20125;B;E;Source Verified
+15000;B;B;Not Verified
+5000;B;D;Verified
+15000;B;A;Not Verified
+33000;B;F;Verified
+12000;B;C;Not Verified
+3600;B;A;Not Verified
+17000;B;C;Source Verified
+10225;B;D;Source Verified
+28000;B;F;Verified
+3500;B;C;Verified
+21000;B;B;Not Verified
+2000;B;C;Not Verified
+4000;B;B;Not Verified
+16000;B;B;Source Verified
+8000;B;A;Not Verified
+15000;B;D;Verified
+6000;B;B;Not Verified
+18000;B;B;Not Verified
+12000;B;C;Not Verified
+18400;B;C;Verified
+6000;B;D;Verified
+18000;B;B;Verified
+9850;B;D;Verified
+12000;B;D;Not Verified
+9000;B;A;Verified
+5500;B;B;Not Verified
+12000;B;D;Source Verified
+30000;B;E;Verified
+2500;B;C;Not Verified
+24000;B;C;Not Verified
+12000;B;C;Verified
+24000;B;C;Verified
+8725;B;C;Source Verified
+10550;B;D;Source Verified
+30000;B;D;Verified
+22000;B;A;Not Verified
+12000;B;B;Not Verified
+1500;B;C;Not Verified
+11200;B;C;Not Verified
+9500;B;C;Verified
+30000;B;C;Verified
+12000;B;B;Not Verified
+18000;B;C;Source Verified
+5000;B;B;Not Verified
+10000;B;B;Not Verified
+14800;B;B;Verified
+9600;B;D;Verified
+20000;B;B;Verified
+5000;B;B;Source Verified
+5000;B;B;Not Verified
+23000;B;D;Verified
+26225;B;E;Verified
+12000;B;A;Not Verified
+20000;B;E;Source Verified
+5000;B;B;Verified
+10000;B;D;Source Verified
+25000;B;B;Not Verified
+24000;B;B;Source Verified
+30000;B;C;Source Verified
+4800;B;C;Not Verified
+10000;B;B;Not Verified
+8000;B;C;Verified
+35000;B;C;Verified
+12000;B;C;Not Verified
+8200;B;D;Verified
+32625;B;C;Verified
+8000;B;D;Not Verified
+29975;B;E;Verified
+24850;B;C;Verified
+7300;B;A;Verified
+13000;B;A;Source Verified
+28000;B;A;Source Verified
+20000;B;C;Source Verified
+12000;B;C;Source Verified
+35000;B;F;Source Verified
+6725;B;B;Verified
+7000;B;A;Not Verified
+8000;B;B;Verified
+16000;B;C;Not Verified
+23200;B;D;Verified
+18000;B;A;Not Verified
+8000;B;D;Source Verified
+8000;B;A;Not Verified
+7200;B;A;Source Verified
+4900;B;G;Verified
+20500;B;A;Verified
+35000;B;E;Verified
+6600;B;B;Source Verified
+15000;B;C;Not Verified
+15000;B;C;Source Verified
+5500;B;B;Source Verified
+12000;B;F;Verified
+3000;B;B;Verified
+10400;B;C;Source Verified
+35000;B;C;Source Verified
+13250;B;G;Source Verified
+30000;B;C;Verified
+18000;B;D;Verified
+16000;B;C;Not Verified
+4000;B;C;Source Verified
+3600;B;C;Verified
+9000;B;A;Source Verified
+9150;B;C;Not Verified
+6500;B;C;Not Verified
+24000;B;A;Verified
+12000;B;A;Not Verified
+20000;B;B;Verified
+10000;B;D;Not Verified
+16000;B;B;Source Verified
+12000;B;B;Source Verified
+7200;B;A;Source Verified
+14000;B;B;Not Verified
+10000;B;B;Source Verified
+20000;B;A;Source Verified
+27000;B;A;Not Verified
+20000;B;B;Source Verified
+14400;B;C;Not Verified
+24175;B;A;Source Verified
+3600;B;A;Source Verified
+4200;B;B;Verified
+10000;B;B;Not Verified
+35000;B;C;Source Verified
+18025;B;C;Not Verified
+15000;B;A;Source Verified
+17400;B;B;Verified
+10000;B;A;Source Verified
+18975;B;E;Verified
+8000;B;C;Source Verified
+12000;B;A;Source Verified
+18600;B;B;Not Verified
+9100;B;D;Source Verified
+12000;B;D;Not Verified
+24000;B;A;Source Verified
+20000;B;C;Verified
+12000;B;D;Not Verified
+35000;B;A;Source Verified
+20000;B;C;Source Verified
+20000;B;A;Verified
+29400;B;C;Source Verified
+12000;B;C;Verified
+7200;B;B;Verified
+30000;B;G;Verified
+22000;B;B;Source Verified
+9325;B;C;Verified
+12000;B;B;Source Verified
+17000;B;B;Verified
+17625;B;A;Source Verified
+7000;B;C;Not Verified
+6000;B;C;Verified
+10000;B;C;Source Verified
+2500;B;D;Not Verified
+32000;B;E;Verified
+9500;B;C;Verified
+18000;B;A;Not Verified
+12000;B;C;Verified
+34000;B;B;Source Verified
+28000;B;B;Source Verified
+25000;B;A;Source Verified
+20000;B;F;Source Verified
+2850;B;D;Not Verified
+2750;B;B;Not Verified
+1000;B;B;Verified
+10000;B;C;Source Verified
+5000;B;A;Not Verified
+16425;B;C;Verified
+15000;B;C;Source Verified
+10000;B;B;Verified
+22800;B;D;Not Verified
+5000;B;C;Not Verified
+35000;B;C;Source Verified
+4125;B;C;Verified
+11000;B;C;Not Verified
+20000;B;D;Verified
+15000;B;C;Not Verified
+1675;B;D;Not Verified
+35000;B;A;Verified
+5500;B;D;Source Verified
+15000;B;C;Verified
+17000;B;A;Source Verified
+18000;B;D;Verified
+6000;B;C;Not Verified
+12000;B;D;Source Verified
+16000;B;C;Source Verified
+4575;B;D;Source Verified
+3000;B;B;Not Verified
+9125;B;C;Verified
+11500;B;B;Not Verified
+32500;B;B;Verified
+5000;B;B;Verified
+8000;B;C;Not Verified
+17350;B;C;Not Verified
+12800;B;D;Not Verified
+7000;B;B;Verified
+24000;B;A;Source Verified
+8000;B;C;Source Verified
+16625;B;D;Source Verified
+8000;B;D;Source Verified
+3000;B;B;Not Verified
+10000;B;B;Not Verified
+25000;B;B;Source Verified
+12000;B;C;Verified
+7600;B;B;Not Verified
+28000;B;A;Not Verified
+30000;B;C;Verified
+2400;B;C;Source Verified
+10000;B;C;Verified
+13000;B;A;Source Verified
+12000;B;B;Not Verified
+15100;B;C;Source Verified
+34625;B;D;Verified
+18000;B;C;Verified
+11100;B;B;Not Verified
+20000;B;D;Source Verified
+24000;B;C;Verified
+24000;B;D;Source Verified
+8500;B;B;Verified
+15000;B;C;Verified
+4275;B;B;Not Verified
+5000;B;C;Verified
+16000;B;C;Source Verified
+16625;B;B;Source Verified
+5000;B;B;Verified
+14400;B;C;Source Verified
+5000;B;C;Verified
+12600;B;D;Source Verified
+15250;B;E;Source Verified
+20000;B;B;Verified
+15000;B;A;Verified
+10000;B;A;Not Verified
+4300;B;D;Not Verified
+22000;B;B;Source Verified
+3500;B;C;Verified
+10500;B;D;Source Verified
+8000;B;B;Source Verified
+9850;B;C;Source Verified
+9000;B;B;Not Verified
+8000;B;A;Not Verified
+15000;B;D;Not Verified
+5000;B;A;Verified
+33500;B;G;Verified
+4075;B;E;Source Verified
+10500;B;B;Verified
+10000;B;C;Source Verified
+18000;B;C;Not Verified
+5600;B;B;Source Verified
+12000;B;C;Not Verified
+30000;B;C;Verified
+16000;B;B;Source Verified
+19200;B;A;Not Verified
+13000;B;B;Not Verified
+25000;B;D;Source Verified
+19375;B;B;Not Verified
+2300;B;C;Verified
+8000;B;F;Not Verified
+21000;B;C;Verified
+12000;B;E;Source Verified
+14000;B;B;Source Verified
+30075;B;D;Verified
+21000;B;C;Source Verified
+19200;B;A;Not Verified
+6000;B;E;Verified
+25000;B;A;Source Verified
+16000;B;C;Source Verified
+16800;B;B;Not Verified
+15000;B;D;Verified
+25000;B;E;Verified
+4125;B;A;Not Verified
+5000;B;D;Verified
+15200;B;A;Not Verified
+4000;B;B;Source Verified
+16000;B;C;Not Verified
+13125;B;B;Not Verified
+5375;B;D;Verified
+12175;B;C;Not Verified
+4500;B;A;Verified
+8000;B;D;Not Verified
+30000;B;B;Verified
+15000;B;C;Not Verified
+21000;B;B;Verified
+10400;B;C;Source Verified
+13000;B;C;Verified
+15000;B;B;Not Verified
+19650;B;F;Not Verified
+20000;B;A;Verified
+16000;B;C;Verified
+26400;B;D;Source Verified
+33300;B;C;Verified
+11375;B;C;Not Verified
+8000;B;C;Verified
+25000;B;B;Not Verified
+1200;B;C;Verified
+27000;B;D;Verified
+16000;B;A;Not Verified
+12475;B;E;Source Verified
+14000;B;B;Not Verified
+11200;B;A;Not Verified
+600;B;C;Not Verified
+24000;B;A;Verified
+6000;B;C;Verified
+24000;B;D;Verified
+35000;B;C;Verified
+26400;B;D;Source Verified
+10000;B;A;Not Verified
+8500;B;B;Source Verified
+23300;B;D;Source Verified
+20000;B;B;Source Verified
+12375;B;C;Source Verified
+12000;B;C;Source Verified
+9000;B;A;Source Verified
+7000;B;B;Verified
+16000;B;D;Verified
+21000;B;C;Source Verified
+7000;B;B;Source Verified
+16000;B;D;Source Verified
+30000;B;D;Source Verified
+17850;B;C;Source Verified
+10000;B;B;Verified
+15000;B;C;Source Verified
+30000;B;B;Source Verified
+8000;B;B;Not Verified
+16000;B;B;Not Verified
+6000;B;C;Source Verified
+10000;B;D;Source Verified
+14000;B;B;Not Verified
+12000;B;C;Verified
+16400;B;C;Source Verified
+30000;B;D;Verified
+14000;B;B;Verified
+4000;B;C;Not Verified
+28750;B;B;Source Verified
+16000;B;B;Not Verified
+14000;B;B;Not Verified
+17000;B;A;Source Verified
+15000;B;A;Source Verified
+22500;B;C;Source Verified
+14000;B;A;Not Verified
+15000;B;C;Source Verified
+12000;B;C;Not Verified
+24000;B;A;Source Verified
+24000;B;A;Source Verified
+10000;B;C;Not Verified
+35000;B;E;Source Verified
+16800;B;C;Source Verified
+24000;B;E;Source Verified
+13475;B;E;Verified
+16800;B;B;Not Verified
+11775;B;C;Not Verified
+4000;B;B;Source Verified
+17725;B;B;Source Verified
+21000;B;B;Source Verified
+26000;B;D;Source Verified
+5400;B;B;Source Verified
+15000;B;C;Not Verified
+13800;B;F;Verified
+35000;B;F;Verified
+25375;B;D;Source Verified
+35000;B;D;Verified
+4300;B;E;Not Verified
+19000;B;A;Source Verified
+19200;B;B;Verified
+28000;B;C;Source Verified
+19000;B;C;Verified
+24375;B;D;Verified
+23100;B;D;Not Verified
+15600;B;C;Verified
+29450;B;D;Verified
+17000;B;B;Source Verified
+7000;B;B;Not Verified
+15000;B;C;Verified
+24000;B;C;Source Verified
+15425;B;C;Source Verified
+30000;B;D;Verified
+10000;B;B;Not Verified
+13350;B;D;Not Verified
+6650;B;C;Not Verified
+35000;B;B;Source Verified
+6000;B;C;Source Verified
+9800;B;B;Not Verified
+7625;B;D;Not Verified
+8000;B;C;Verified
+15000;B;B;Not Verified
+10000;B;C;Not Verified
+30000;B;B;Source Verified
+28200;B;E;Source Verified
+20000;B;E;Verified
+20000;B;D;Verified
+16000;B;B;Source Verified
+3500;B;B;Not Verified
+27000;B;E;Source Verified
+21000;B;B;Source Verified
+18000;B;C;Not Verified
+25000;B;D;Verified
+10000;B;C;Not Verified
+5600;B;C;Source Verified
+28000;B;B;Verified
+15000;B;F;Verified
+7000;B;B;Not Verified
+15000;B;B;Source Verified
+10000;B;B;Source Verified
+11800;B;E;Source Verified
+14000;B;C;Not Verified
+20000;B;C;Verified
+22875;B;D;Verified
+11175;B;E;Source Verified
+18350;B;D;Source Verified
+9450;B;E;Source Verified
+20000;B;D;Source Verified
+29400;B;D;Verified
+30000;B;D;Source Verified
+35000;B;B;Verified
+12000;B;D;Source Verified
+2000;B;E;Verified
+10000;B;C;Source Verified
+5000;B;D;Source Verified
+20000;B;D;Verified
+10400;B;D;Source Verified
+17000;B;C;Not Verified
+3600;B;C;Source Verified
+2000;B;D;Source Verified
+30000;B;B;Verified
+18000;B;B;Verified
+6000;B;A;Not Verified
+10000;B;A;Source Verified
+3600;B;D;Verified
+1600;B;D;Source Verified
+8000;B;B;Source Verified
+25000;B;D;Source Verified
+15000;B;D;Verified
+7000;B;A;Not Verified
+11200;B;C;Source Verified
+31825;B;D;Verified
+20000;B;B;Verified
+18000;B;B;Not Verified
+21000;B;D;Source Verified
+26850;B;E;Verified
+7500;B;B;Verified
+21000;B;B;Source Verified
+2500;B;A;Not Verified
+7200;B;C;Verified
+24175;B;D;Source Verified
+20000;B;B;Source Verified
+35000;B;A;Source Verified
+9650;B;D;Verified
+18000;B;D;Not Verified
+6000;B;B;Not Verified
+35000;B;A;Source Verified
+6000;B;C;Not Verified
+5000;B;C;Verified
+25475;B;C;Verified
+5000;B;B;Not Verified
+7800;B;D;Verified
+17000;B;E;Source Verified
+2600;B;A;Not Verified
+16800;B;B;Verified
+20000;B;B;Source Verified
+18000;B;D;Not Verified
+7200;B;C;Source Verified
+6000;B;B;Not Verified
+3500;B;C;Not Verified
+10000;B;C;Verified
+3500;B;B;Not Verified
+4750;B;C;Verified
+9000;B;A;Verified
+11000;B;E;Source Verified
+5950;B;C;Source Verified
+10000;B;C;Source Verified
+19675;B;D;Source Verified
+8000;B;A;Verified
+19000;B;B;Source Verified
+35000;B;D;Source Verified
+28775;B;F;Source Verified
+24000;B;A;Verified
+8000;B;B;Source Verified
+30000;B;C;Source Verified
+20475;B;C;Not Verified
+1000;B;B;Source Verified
+20000;B;E;Source Verified
+15000;B;A;Verified
+12000;B;B;Not Verified
+5000;B;C;Not Verified
+11500;B;E;Source Verified
+5225;B;B;Source Verified
+3000;B;D;Verified
+20000;B;D;Not Verified
+10700;B;F;Source Verified
+18150;B;C;Verified
+7900;B;B;Verified
+11675;B;D;Source Verified
+20000;B;B;Verified
+6525;B;D;Verified
+17500;B;A;Source Verified
+10275;B;F;Source Verified
+12350;B;E;Source Verified
+35000;B;B;Source Verified
+7000;B;B;Source Verified
+5000;B;A;Not Verified
+5000;B;A;Not Verified
