@@ -1,0 +1,436 @@
+Teacher_Education_Level
+MA
+College Student
+MA
+Grad Student
+Grad Student
+MA
+Grad Student
+BA
+Grad Student
+MA
+MA
+Grad Student
+BA
+College Student
+MA
+College Student
+BA
+MA
+College Student
+BA
+BA
+College Student
+College Student
+MA
+College Student
+PhD
+PhD
+College Student
+MA
+BA
+MA
+MA
+BA
+College Student
+MA
+MA
+MA
+College Student
+Grad Student
+MA
+BA
+Grad Student
+PhD
+BA
+MA
+MA
+MA
+College Student
+MA
+College Student
+BA
+MA
+College Student
+MA
+Grad Student
+BA
+MA
+College Student
+BA
+PhD
+MA
+PhD
+PhD
+MA
+MA
+MA
+BA
+College Student
+Grad Student
+MA
+BA
+Grad Student
+MA
+MA
+College Student
+MA
+BA
+Grad Student
+MA
+BA
+College Student
+Grad Student
+College Student
+BA
+Grad Student
+MA
+BA
+Grad Student
+BA
+BA
+College Student
+College Student
+MA
+MA
+BA
+College Student
+BA
+College Student
+College Student
+PhD
+Grad Student
+College Student
+Grad Student
+MA
+College Student
+College Student
+MA
+BA
+MA
+PhD
+BA
+MA
+PhD
+MA
+MA
+Grad Student
+MA
+BA
+College Student
+BA
+MA
+PhD
+BA
+MA
+PhD
+MA
+Grad Student
+College Student
+MA
+BA
+BA
+BA
+College Student
+Grad Student
+Grad Student
+College Student
+BA
+PhD
+College Student
+MA
+Grad Student
+PhD
+MA
+MA
+BA
+BA
+PhD
+MA
+College Student
+Grad Student
+MA
+Grad Student
+Grad Student
+MA
+MA
+MA
+College Student
+MA
+MA
+College Student
+MA
+College Student
+Grad Student
+BA
+PhD
+MA
+Grad Student
+PhD
+Grad Student
+College Student
+MA
+BA
+MA
+Grad Student
+MA
+Grad Student
+Grad Student
+BA
+PhD
+Grad Student
+BA
+College Student
+MA
+Grad Student
+College Student
+Grad Student
+College Student
+PhD
+PhD
+BA
+BA
+MA
+College Student
+MA
+MA
+College Student
+MA
+Grad Student
+BA
+Grad Student
+Grad Student
+PhD
+MA
+MA
+College Student
+PhD
+BA
+PhD
+Grad Student
+PhD
+College Student
+MA
+Grad Student
+MA
+College Student
+Grad Student
+College Student
+College Student
+BA
+MA
+BA
+College Student
+Grad Student
+PhD
+College Student
+Grad Student
+College Student
+College Student
+MA
+Grad Student
+MA
+BA
+MA
+PhD
+MA
+BA
+PhD
+College Student
+BA
+Grad Student
+PhD
+MA
+Grad Student
+PhD
+College Student
+PhD
+College Student
+PhD
+Grad Student
+MA
+BA
+Grad Student
+Grad Student
+MA
+Grad Student
+Grad Student
+BA
+BA
+College Student
+MA
+MA
+MA
+BA
+Grad Student
+BA
+Grad Student
+PhD
+Grad Student
+College Student
+MA
+MA
+MA
+BA
+BA
+College Student
+College Student
+Grad Student
+BA
+MA
+BA
+BA
+Grad Student
+BA
+MA
+Grad Student
+College Student
+PhD
+Grad Student
+Grad Student
+College Student
+MA
+College Student
+Grad Student
+College Student
+College Student
+College Student
+BA
+Grad Student
+Grad Student
+Grad Student
+College Student
+Grad Student
+MA
+College Student
+BA
+MA
+College Student
+BA
+Grad Student
+College Student
+PhD
+Grad Student
+MA
+BA
+PhD
+Grad Student
+MA
+College Student
+BA
+MA
+Grad Student
+Grad Student
+College Student
+BA
+MA
+Grad Student
+College Student
+MA
+MA
+Grad Student
+BA
+MA
+PhD
+Grad Student
+College Student
+Grad Student
+MA
+Grad Student
+PhD
+MA
+College Student
+MA
+Grad Student
+College Student
+Grad Student
+PhD
+Grad Student
+MA
+Grad Student
+Grad Student
+BA
+BA
+MA
+MA
+MA
+College Student
+MA
+Grad Student
+Grad Student
+MA
+MA
+College Student
+MA
+BA
+BA
+BA
+MA
+MA
+Grad Student
+PhD
+MA
+MA
+MA
+BA
+BA
+College Student
+MA
+Grad Student
+College Student
+PhD
+PhD
+PhD
+MA
+BA
+MA
+MA
+BA
+Grad Student
+BA
+MA
+MA
+BA
+BA
+College Student
+BA
+BA
+MA
+BA
+MA
+College Student
+College Student
+Grad Student
+MA
+PhD
+MA
+MA
+PhD
+MA
+MA
+PhD
+MA
+BA
+College Student
+MA
+MA
+BA
+MA
+College Student
+PhD
+MA
+PhD
+Grad Student
+PhD
+MA
+BA
+PhD
+BA
+MA
+Grad Student
+MA
+MA
+Grad Student
+College Student
+MA
+College Student
